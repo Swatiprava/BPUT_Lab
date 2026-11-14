@@ -1,0 +1,8 @@
+faculty_id,name,designation,department,email,username,password,subject_codes,subject_names,semesters
+BPUT-FAC-001,Dr. Rajesh Mohapatra,Associate Professor,Computer Science & Engineering,rajesh.mohapatra@bput.ac.in,rajesh.mohapatra,Faculty@2024bput1,"CSPC3201, CSPC3204","Theory of Computation Laboratory, Compiler Design Laboratory","5, 6"
+BPUT-FAC-002,Dr. Smruti Rekha Das,Assistant Professor,Computer Science & Engineering,smruti.das@bput.ac.in,smruti.das,Faculty@2024bput2,"CSPC2202, CSPC2206","Data Structures Lab, Design & Analysis of Algorithms Lab","3, 4"
+BPUT-FAC-003,Prof. Ananya Sengupta,Associate Professor,Computer Science & Engineering,ananya.sengupta@bput.ac.in,ananya.sengupta,Faculty@2024bput3,"CSPC2204, CSPC3205","Database Engineering Lab, Software Engineering Laboratory","4, 6"
+BPUT-FAC-004,Dr. Soumya Ranjan Nayak,Assistant Professor,Computer Science & Engineering,soumya.nayak@bput.ac.in,soumya.nayak,Faculty@2024bput4,"CSPC2203, CSPC3203","Object Oriented Programming Lab, Machine Learning Laboratory","3, 5"
+BPUT-FAC-005,Prof. Manoj Kumar Sahoo,Associate Professor,Computer Science & Engineering,manoj.sahoo@bput.ac.in,manoj.sahoo,Faculty@2024bput5,"CSPC3202, CSPC2207","Operating Systems Laboratory, Computer Networks Lab","5, 4"
+BPUT-FAC-006,Dr. Debabrata Tripathy,Assistant Professor & Lab In-Charge,Computer Science & Engineering,debabrata.tripathy@bput.ac.in,debabrata.tripathy,Faculty@2024bput6,CSPC2205,Computer Organization & Architecture Lab,4
+
